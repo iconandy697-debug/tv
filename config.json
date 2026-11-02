@@ -11,8 +11,9 @@
             "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
-        }, 
+            "filterable": 0,
+            "timeout": 60
+        },
         {
             "key": "Doubanaaaa",
             "name": "🐮【更新日期:20261102】🐮",
@@ -21,8 +22,9 @@
             "indexs": 1,
             "searchable": 0,
             "quickSearch": 0,
-            "filterable": 0
-        }, 
+            "filterable": 0,
+            "timeout": 60
+        },
         {
             "key": "Wexconfig",
             "name": "🐮配置┃中心🐮",
@@ -33,8 +35,9 @@
             "indexs": 0,
             "style": {
                 "type": "list"
-            }
-        }, 
+            },
+            "timeout": 60
+        },
         {
             "key": "MyPan",
             "name": "🐮我的┃网盘🐮",
@@ -45,7 +48,8 @@
             "indexs": 0,
             "style": {
                 "type": "list"
-            }
+            },
+            "timeout": 60
         },
         {
             "key": "花卷",
@@ -54,8 +58,9 @@
             "api": "csp_AiNewHuaJuan",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "玩偶",
             "name": "💓‍玩偶┃4K💓‍",
@@ -63,8 +68,9 @@
             "api": "csp_AiNewWogg",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewGuanYing",
             "name": "💓‍观影┃4K💓‍",
@@ -72,8 +78,9 @@
             "api": "csp_AiNewGuanYing",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiQwMkv",
             "name": "💓‍七味┃4K💓‍",
@@ -81,8 +88,9 @@
             "api": "csp_AiQwMkv",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewPianKu",
             "name": "💓盘库┃4K💓",
@@ -90,8 +98,9 @@
             "api": "csp_AiNewPianKu",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewHuBan",
             "name": "💓虎斑┃4K💓",
@@ -99,8 +108,9 @@
             "api": "csp_AiNewHuBan",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewMuOu",
             "name": "💓木偶┃4K💓",
@@ -108,8 +118,9 @@
             "api": "csp_AiNewMuOu",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewDuoDuo",
             "name": "💓多多┃4K💓",
@@ -117,8 +128,9 @@
             "api": "csp_AiNewDuoDuo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },  
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewKuaiYing",
             "name": "💓快影┃4K💓",
@@ -126,8 +138,9 @@
             "api": "csp_AiNewKuaiYing",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },  
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewLaBi",
             "name": "💓蜡笔┃4K💓",
@@ -135,8 +148,9 @@
             "api": "csp_AiNewLaBi",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        },  
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewShanDian",
             "name": "💓闪电┃4K💓",
@@ -144,8 +158,9 @@
             "api": "csp_AiNewShanDian",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewJuTou",
             "name": "💓剧透┃4K💓",
@@ -153,8 +168,9 @@
             "api": "csp_AiNewJuTou",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewLibvio",
             "name": "💓立播┃4K💓",
@@ -162,8 +178,9 @@
             "api": "csp_AiNewLibvio",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "原盘",
             "name": "💓‍原盘┃4K💓‍",
@@ -171,8 +188,9 @@
             "api": "csp_AiNewZhiNan4K",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "蜗牛",
             "name": "💓‍蜗牛┃4K💓‍",
@@ -180,8 +198,9 @@
             "api": "csp_AiNewWoNiu4K",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiPan1Me",
             "name": "💓盘迷┃4K💓",
@@ -189,8 +208,9 @@
             "api": "csp_AiPan1Me",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AiNewYiDong4K",
             "name": "💓逸动┃4K💓",
@@ -198,8 +218,9 @@
             "api": "csp_AiNewYiDong4K",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexHanXiaoQuan",
             "name": "💥韩剧┃秒播💥",
@@ -207,8 +228,9 @@
             "api": "csp_WexAiHanXiaoQuan",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiGuaZi",
             "name": "💥瓜子┃秒播💥",
@@ -216,8 +238,9 @@
             "api": "csp_WexAiGuaZi",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiDuBoKu",
             "name": "💥独播┃秒播💥",
@@ -225,8 +248,9 @@
             "api": "csp_WexAiDuBoKu",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiYueYue",
             "name": "💥闪电┃秒播💥",
@@ -234,8 +258,9 @@
             "api": "csp_WexAiYueYue",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiWenCai",
             "name": "💥文才┃秒播💥",
@@ -243,8 +268,9 @@
             "api": "csp_WexAiWenCai",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexFengYe4K",
             "name": "💥小枫┃秒播💥",
@@ -252,16 +278,18 @@
             "api": "csp_WexFengYe4K",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "賤賤",
             "name": "💥贱片┃秒播💥",
             "type": 3,
             "api": "csp_WexAiJianPian",
             "searchable": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "AppV7 | 大师兄",
             "name": "💥师兄┃秒播💥",
@@ -273,8 +301,8 @@
                 "config": "AppV7Dsx",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 粉猪追剧",
             "name": "💥粉猪┃秒播💥",
@@ -286,8 +314,8 @@
                 "config": "AppV7Fz",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 咸鱼",
             "name": "💥咸鱼┃秒播💥",
@@ -299,8 +327,8 @@
                 "config": "AppV7Xy",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 追剧达人",
             "name": "💥追剧┃秒播💥",
@@ -312,8 +340,8 @@
                 "config": "AppV7Zjdr",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 小柚子",
             "name": "💥柚子┃秒播💥",
@@ -325,8 +353,8 @@
                 "config": "AppV7Xyz",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 小柠檬",
             "name": "💥柠檬┃秒播💥",
@@ -338,8 +366,8 @@
                 "config": "AppV7Xnm",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 蒙太奇",
             "name": "💥太奇┃秒播💥",
@@ -351,8 +379,8 @@
                 "config": "AppV7Mtq",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 零零七影视",
             "name": "💥零七┃秒播💥",
@@ -364,8 +392,8 @@
                 "config": "AppV7Llq",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 小柿子",
             "name": "💥柿子┃秒播💥",
@@ -377,8 +405,8 @@
                 "config": "AppV7Xsz",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "AppV7 | 小黄人",
             "name": "💥黄人┃秒播💥",
@@ -390,8 +418,8 @@
                 "config": "AppV7Xhr",
                 "proxyImg": false
             },
-            "timeout": 120
-        }, 
+            "timeout": 180
+        },
         {
             "key": "WexAiYiYs",
             "name": "💥伊影┃秒播💥",
@@ -399,8 +427,9 @@
             "api": "csp_WexAiYiYs",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiReBo",
             "name": "💥热播┃秒播💥",
@@ -408,8 +437,9 @@
             "api": "csp_WexAiReBo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiBoBo",
             "name": "🎇伯伯┃秒播🎇",
@@ -417,8 +447,9 @@
             "api": "csp_WexAiBoBo",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "WexAiIkanBot",
             "name": "🎇爱看┃采集🎇",
@@ -426,8 +457,9 @@
             "api": "csp_WexAiIkanBot",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 0
-        }, 
+            "changeable": 0,
+            "timeout": 60
+        },
         {
             "key": "FakeAi115Share",
             "name": "💓115┃分享💓‍",
@@ -435,66 +467,19 @@
             "api": "csp_FakeAi115Share",
             "searchable": 1,
             "changeable": 0,
-            "timeout": 50,
+            "timeout": 100,
             "style": {
                 "type": "list"
             }
-        }, 
-        {
-            "key": "Emby",
-            "name": "💓Emby┃4K💓",
-            "type": 3,
-            "api": "csp_Emby",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        }, 
-        {
-            "key": "Emby001",
-            "name": "💓Emby001┃4K💓",
-            "type": 3,
-            "api": "csp_EmbyDiy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": {
-                "embynumber": 0
-            }
-        }, 
-        {
-            "key": "AList",
-            "name": "👁️Alist┃DIY👁️",
-            "type": 3,
-            "api": "csp_AList",
-            "searchable": 1,
-            "changeable": 0
-        }, 
-        {
-            "key": "webdav",
-            "name": "👁️WebDav┃DIY👁️",
-            "type": 3,
-            "api": "csp_WebDAV",
-            "searchable": 1,
-            "changeable": 0
-        }, 
-        {
-            "key": "DiyVod",
-            "name": "👁Vod┃DIY👁️",
-            "type": 3,
-            "api": "csp_DiyVod",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        }, 
+        },
         {
             "key": "push_agent",
             "name": "推送",
             "type": 3,
             "api": "csp_Push",
             "searchable": 1,
-            "changeable": 0
+            "changeable": 0,
+            "timeout": 60
         }
     ],
     "parses": [
@@ -502,17 +487,17 @@
             "name": "王",
             "type": 1,
             "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
-        }, 
+        },
         {
             "name": "二",
             "type": 1,
             "url": "http://110.42.7.182:880/api/?key=7e84f07dc78fbb3406d64a1ab7d966b3&url="
-        }, 
+        },
         {
             "name": "小",
             "type": 1,
             "url": "http://43.136.176.188:91/api/?key=4ef232e96172b0bda78d393c695fe7c4&url="
-        }, 
+        },
         {
             "name": "帅",
             "type": 1,
