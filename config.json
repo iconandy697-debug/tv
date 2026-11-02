@@ -476,18 +476,6 @@
             "timeout": 60
         },
         {
-            "key": "FakeAi115Share",
-            "name": "💓115┃分享💓",
-            "type": 3,
-            "api": "csp_FakeAi115ShareGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "timeout": 100,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "biliys",
             "name": "🅱哔哩┃影视🅱",
             "type": 3,
