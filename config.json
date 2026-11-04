@@ -4,85 +4,36 @@
     "logo": "",
     "sites": [
         {
-            "key": "花卷",
-            "name": "💓花卷┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewHuaJuan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "玩偶",
-            "name": "💓玩偶┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewWogg",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AiNewGuanYing",
-            "name": "💓观影┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewGuanYing",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "AiNewPianKu",
-            "name": "💓盘库┃4K💓",
-            "type": 3,
-            "api": "csp_AiNewPianKu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiGuaZi",
-            "name": "💥瓜子┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiGuaZi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "賤賤",
-            "name": "💥贱片┃秒播💥",
-            "type": 3,
-            "api": "csp_WexAiJianPian",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0
-        },
-        {
-            "key": "biliys",
-            "name": "🅱哔哩┃影视🅱",
-            "type": 3,
-            "api": "csp_BiliYs",
+            "key": "lzi",
+            "name": "🔥 量子资源",
+            "type": 1,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/json",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_Push",
+            "key": "bf",
+            "name": "🔥 暴风资源",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/at/json",
             "searchable": 1,
-            "changeable": 0
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "ff",
+            "name": "🔥 非凡资源",
+            "type": 1,
+            "api": "https://ffzyapi.com/api.php/provide/vod/at/json",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         }
     ],
     "parses": [
         {
-            "name": "王",
-            "type": 1,
-            "url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="
-        },
-        {
-            "name": "帅",
+            "name": "聚合",
             "type": 1,
             "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
         }
@@ -95,9 +46,5 @@
                 "googlevideo.com"
             ]
         }
-    ],
-    "ads": [
-        "mozai.4gtv.tv",
-        "pv.vipwm.cc"
     ]
 }
