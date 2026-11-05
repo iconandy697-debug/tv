@@ -54,7 +54,6 @@
             "type": 1,
             "playerType": 1,
             "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"
-            
         },
         {
             "key": "初恋资源",
@@ -69,7 +68,6 @@
             "name": "🐻┃熊掌┃高清",
             "type": 1,
             "api": "https://xzcjz.com/api.php/provide/vod"
-            
         },
         {
             "key": "ikunzy",
@@ -77,19 +75,7 @@
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod",
             "searchable": 1,
-            "filterable": 0,
-            "categories": [
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片"
-            ]
+            "filterable": 0
         },
         {
             "key": "豪华资源",
@@ -97,26 +83,7 @@
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "内地剧",
-                "香港剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "马泰剧",
-                "台湾剧",
-                "剧情片",
-                "战争片",
-                "动作片",
-                "科幻片",
-                "记录片",
-                "爱情片",
-                "喜剧片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片"
-            ]
+            "quickSearch": 1
         },
         {
             "key": "snzy",
@@ -124,19 +91,7 @@
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
             "searchable": 1,
-            "filterable": 0,
-            "categories": [
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片"
-            ]
+            "filterable": 0
         },
         {
             "key": "索尼_vip",
@@ -145,25 +100,7 @@
             "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "国产剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "港剧",
-                "台剧",
-                "泰剧",
-                "记录片",
-                "海外剧"
-            ]
+            "filterable": 1
         },
         {
             "key": "49zy",
@@ -173,30 +110,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "纪录片",
-                "欧美剧",
-                "香港剧",
-                "动作片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "喜剧片",
-                "犯罪片",
-                "韩国剧",
-                "电影",
-                "台湾剧",
-                "泰国剧",
-                "日剧",
-                "奇幻片",
-                "灾难片",
-                "悬疑片",
-                "海外剧"
-            ]
+            "changeable": 1
         },
         {
             "key": "cjzy_快看",
@@ -207,45 +121,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "changeable": 1,
-            "playerType": 2,
-            "categories": [
-                "国产剧",
-                "港台剧",
-                "日韩剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "爱情片",
-                "剧情片",
-                "科幻片",
-                "奇幻片",
-                "战争片",
-                "犯罪片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "冒险片"
-            ]
+            "playerType": 2
         }
-    ],
-    "parses": [
-        {
-            "name": "聚合",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-        }
-    ],
-    "rules": [
-        {
-            "name": "proxy",
-            "hosts": [
-                "raw.githubusercontent.com",
-                "googlevideo.com"
-            ]
-        }
-    ],
-    "ads": [
-        "mozai.4gtv.tv",
-        "pv.vipwm.cc"
     ]
 }
