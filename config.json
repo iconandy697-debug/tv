@@ -10,7 +10,7 @@
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "bf",
@@ -19,7 +19,7 @@
             "api": "https://bfzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "ff",
@@ -28,7 +28,7 @@
             "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "hn",
@@ -37,7 +37,7 @@
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "gs",
@@ -46,15 +46,15 @@
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "小胡",
             "name": "🔥┃小胡┃4K",
             "type": 1,
             "playerType": 1,
-            "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/",
-            "jar": "http://xiaohu.xzam.cn/jar/1.jar"
+            "api": "http://xh1.xn--yetu07f.icu/api.php/provide/vod/"
+            
         },
         {
             "key": "初恋资源",
@@ -68,8 +68,8 @@
             "key": "熊掌",
             "name": "🐻┃熊掌┃高清",
             "type": 1,
-            "api": "https://xzcjz.com/api.php/provide/vod",
-            "jar": "https://tvbox.cainisi.cf/jar/fty0101.jar;md5;fd784008ab71d81a178564841059756d"
+            "api": "https://xzcjz.com/api.php/provide/vod"
+            
         },
         {
             "key": "ikunzy",
@@ -106,10 +106,6 @@
                 "日剧",
                 "马泰剧",
                 "台湾剧",
-                "动画片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫",
                 "剧情片",
                 "战争片",
                 "动作片",
@@ -119,11 +115,7 @@
                 "喜剧片",
                 "灾难片",
                 "悬疑片",
-                "犯罪片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺"
+                "犯罪片"
             ]
         },
         {
@@ -170,14 +162,7 @@
                 "台剧",
                 "泰剧",
                 "记录片",
-                "海外剧",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "足球",
-                "影视解说",
-                "国产动漫"
+                "海外剧"
             ]
         },
         {
@@ -187,7 +172,7 @@
             "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "changeable": 1,
             "categories": [
                 "国产剧",
@@ -201,27 +186,15 @@
                 "剧情片",
                 "战争片",
                 "喜剧片",
-                "动画片",
                 "犯罪片",
                 "韩国剧",
-                "动漫",
                 "电影",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺",
                 "台湾剧",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
                 "泰国剧",
                 "日剧",
-                "电影解说",
                 "奇幻片",
                 "灾难片",
                 "悬疑片",
-                "其他片",
-                "体育赛事",
                 "海外剧"
             ]
         },
@@ -232,13 +205,12 @@
             "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
+            "filterable": 0,
             "changeable": 1,
             "playerType": 2,
             "categories": [
                 "国产剧",
                 "港台剧",
-                "国产动漫",
                 "日韩剧",
                 "欧美剧",
                 "海外剧",
